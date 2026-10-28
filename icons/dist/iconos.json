@@ -1,0 +1,577 @@
+{
+ "actividad": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "ajustes": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "alerta": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "ancla": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "anillo": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "antorcha": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "arbol": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "arco": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "barco": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "bolsa": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "borrar": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "brillo": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "brujula": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "buscar": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "calavera": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "calendario": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "camara": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "campana": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "candado": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "castillo": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "cerrar": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "chat": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "check": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "ciervo": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "citar": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "cofre": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "comentarios": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "compartir": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "conectar": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "copa": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "copiar": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "copo": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "corazon": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "corona": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "dado": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "descargar": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "editar": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "enlace": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "escudo": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "espada": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "estandarte": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "estrella": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "etiqueta": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "faq": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "filtro": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "flecha": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "flecha-abajo": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "flecha-arriba": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "flecha-izquierda": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "flor": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "frasco": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "galeria": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "gema": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "gota": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "grupos": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "hacha": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "hoja": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "imagen": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "info": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "inicio": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "ip": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "leido": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "libro": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "lista": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "llama": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "llave": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "lobo": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "luna": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "luna-creciente": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "magia": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "mapa": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "marcador": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "martillo": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "mas": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "me-gusta": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "medalla": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "mensaje-nuevo": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "mensajes": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "menu": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "miembros": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "monedas": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "montana": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "mundo": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "musica": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "nube": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "nuevo-tema": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "ojo": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "ola": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "opciones": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "pajaro": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "perfil": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "pergamino": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "periodico": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "pluma": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "rayo": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "registrarse": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "rejilla": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "reloj": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "reloj-arena": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "reportar": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "responder": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "rosa": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "salir": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "sello": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "serpiente": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "sol": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "telefono": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "texto-mas": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "texto-menos": {
+  "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "tienda": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "torre": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "trofeo": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "ubicacion": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "usuario-mas": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "vela": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ }
+}
