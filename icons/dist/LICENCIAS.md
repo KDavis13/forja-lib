@@ -6,5 +6,5 @@ cuando `skin.json` lo indica en "creditos").
 
 | Juego | Iconos | Licencia | Atribución |
 | --- | --- | --- | --- |
-| forja-extra | 59 | Propia de Forja (uso comercial sin atribución) | — |
+| forja-extra | 94 | Propia de Forja (uso comercial sin atribución) | — |
 | forja-iconos | 56 | Propia de Forja (uso comercial sin atribución) | — |

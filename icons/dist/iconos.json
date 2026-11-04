@@ -14,6 +14,21 @@
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
  },
+ "alinear-centro": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "alinear-derecha": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "alinear-izquierda": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
  "ancla": {
   "juego": "forja-extra",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
@@ -114,6 +129,16 @@
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
  },
+ "chevron-abajo": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "chevron-izquierda": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
  "ciervo": {
   "juego": "forja-extra",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
@@ -121,6 +146,16 @@
  },
  "citar": {
   "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "codigo": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "codigo-fuente": {
+  "juego": "forja-extra",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
  },
@@ -169,12 +204,27 @@
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
  },
+ "cursiva": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
  "dado": {
   "juego": "forja-iconos",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
  },
  "descargar": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "desplazar-horizontal": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "desplazar-vertical": {
   "juego": "forja-extra",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
@@ -254,6 +304,16 @@
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
  },
+ "fuente": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "fusionar": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
  "galeria": {
   "juego": "forja-iconos",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
@@ -289,6 +349,11 @@
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
  },
+ "incrustar": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
  "info": {
   "juego": "forja-extra",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
@@ -304,6 +369,11 @@
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
  },
+ "justificar": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
  "leido": {
   "juego": "forja-iconos",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
@@ -314,7 +384,17 @@
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
  },
+ "linea": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
  "lista": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "lista-numerada": {
   "juego": "forja-extra",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
@@ -409,12 +489,32 @@
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
  },
+ "mover": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "multicitar": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
  "mundo": {
   "juego": "forja-extra",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
  },
  "musica": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "negrita": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "no-me-gusta": {
   "juego": "forja-extra",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
@@ -426,6 +526,11 @@
  },
  "nuevo-tema": {
   "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "ocultar": {
+  "juego": "forja-extra",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
  },
@@ -449,6 +554,16 @@
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
  },
+ "papelera": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "pegar-texto": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
  "perfil": {
   "juego": "forja-iconos",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
@@ -466,6 +581,11 @@
  },
  "pluma": {
   "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "quitar-formato": {
+  "juego": "forja-extra",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
  },
@@ -519,6 +639,11 @@
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
  },
+ "separar": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
  "serpiente": {
   "juego": "forja-extra",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
@@ -526,6 +651,46 @@
  },
  "sol": {
   "juego": "forja-iconos",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "spoiler": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "subindice": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "subir-imagen": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "subrayado": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "superindice": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "tabla": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "tachado": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "tamano-texto": {
+  "juego": "forja-extra",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
  },
@@ -545,6 +710,11 @@
   "atribucion": ""
  },
  "tienda": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "titulo": {
   "juego": "forja-extra",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
@@ -570,6 +740,11 @@
   "atribucion": ""
  },
  "vela": {
+  "juego": "forja-extra",
+  "licencia": "Propia de Forja (uso comercial sin atribución)",
+  "atribucion": ""
+ },
+ "video": {
   "juego": "forja-extra",
   "licencia": "Propia de Forja (uso comercial sin atribución)",
   "atribucion": ""
